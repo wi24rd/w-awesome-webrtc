@@ -1,4 +1,7 @@
-# Awesome WebRTC [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome WebRTC 
+[@wi24rd](https://zhw.pages.dev/) updated [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+- [gfwilliams/HeartRate: An online heart-rate monitor using getUserMedia](https://github.com/gfwilliams/HeartRate/tree/gh-pages)
 
 [![Build Status](https://travis-ci.org/OpenRTC-IO/awesome-webrtc.svg)](https://travis-ci.org/OpenRTC-IO/awesome-webrtc)
 
